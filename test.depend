@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1674771660 source:f:\mohammed\malaysia\c++ alien vs. zombie game\test\main.cpp
+	<iostream>
+	"pf/helper.h"
+
+1673369147 f:\mohammed\malaysia\c++ alien vs. zombie game\test\pf\helper.h
+
+1674733460 source:f:\mohammed\malaysia\c++ alien vs. zombie game\test\pf\helper.cpp
+	"helper.h"
+	<cstdlib>
+	<iostream>
+
